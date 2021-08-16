@@ -11,12 +11,12 @@
 개를 출력한다.
 */
 
-class Main{ // Main 
-    public static void main(String [] args){ // main
-        System.out.println("|\\_/|");
-        System.out.println("|q p|   /}");
-        System.out.println("( 0 )\"\"\"\\");
-        System.out.println("|\"^\"`    |");
-        System.out.println("||_/=\\\\__|");
+class Main{ // Main 클래스
+    public static void main(String [] args){ // main 메소드
+        System.out.println("|\\_/|"); // 출력하기
+        System.out.println("|q p|   /}"); // 출력하기
+        System.out.println("( 0 )\"\"\"\\"); // 출력하기
+        System.out.println("|\"^\"`    |"); // 출력하기
+        System.out.println("||_/=\\\\__|"); // 출력하기
     }
 }
