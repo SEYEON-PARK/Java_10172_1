@@ -11,8 +11,8 @@
 개를 출력한다.
 */
 
-class Main{
-    public static void main(String [] args){
+class Main{ // Main 
+    public static void main(String [] args){ //main
         System.out.println("|\\_/|");
         System.out.println("|q p|   /}");
         System.out.println("( 0 )\"\"\"\\");
